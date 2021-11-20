@@ -1,14 +1,28 @@
-## Welcome to Wenzhe's Pages
+<!-- ## Welcome to Wenzhe's Pages -->
 
-You can use the [editor on GitHub](https://github.com/rrryan2016/liuwenzhe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/rrryan2016/liuwenzhe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
+# Wenzhe Liu
 
-# Baisc Information 
+## Baisc Information 
 
 **Name**: Wenzhe Liu 
-**BirthPlace**: Changsha, China 
+
+**Birthplace**: Changsha, China 
+
+**Birthday**: 2nd Oct., 1997
+
+**Tel**:(+86) 15273152851
+
+**Email**: liuwz2017@gmail.com 
+
+**Research Interest**: Machine Learning, Computer Vision, Neural Architecture Search, Network Compression, Few-Shot Learning, Binary Network
+
+**Technical Skill**: Python / Matlab / C++ / Linux / 
+
+
 
 
 ### Markdown
