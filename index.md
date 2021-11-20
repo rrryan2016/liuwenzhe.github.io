@@ -12,17 +12,36 @@
 
 **Birthplace**: Changsha, China 
 
-**Birthday**: 2nd Oct., 1997
+**Birthday**: 2nd Nov., 1997
 
-**Tel**:(+86) 15273152851
+**Tel**: (+86) 15273152851
 
 **Email**: liuwz2017@gmail.com 
 
 **Research Interest**: Machine Learning, Computer Vision, Neural Architecture Search, Network Compression, Few-Shot Learning, Binary Network
 
-**Technical Skill**: Python / Matlab / C++ / Linux / 
+**Language**: IELTS (7.0) / CET-6 (588)
+
+**Technical Skill**: Python / Matlab / C++ / Linux / Pytorch / Tensorflow / HTTP / php / pyqt5 / Vim / Git / Mini-Program for WeChat
 
 
+## Education 
+
+**National University of Defense Technology **
+
+_Control Science and Engineering _
+
+Courses: Artificial Intelligence, Pattern Recognition, Computing Intelligence, Machine Learning, Methodology of Control Science, Media Computing Method, Deep Learning Methods and Applications, Network Data Mining and Visualization, Matrix Analysis and Calculation 
+
+**University of Cambridge**
+
+_International Summer Programme_
+
+Completed _Interdiscriplinary Summer Programme_ and _Art and Visual Culture_.
+
+**University of Dundee**
+
+China Scholarship Council 
 
 
 ### Markdown
