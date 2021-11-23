@@ -27,9 +27,9 @@
 
 ## Education 
 
-**National University of Defense Technology **
+**National University of Defense Technology**
 
-_Control Science and Engineering _
+_Control Science and Engineering_
 
 Courses: Artificial Intelligence, Pattern Recognition, Computing Intelligence, Machine Learning, Methodology of Control Science, Media Computing Method, Deep Learning Methods and Applications, Network Data Mining and Visualization, Matrix Analysis and Calculation 
 
@@ -41,7 +41,32 @@ Completed _Interdiscriplinary Summer Programme_ and _Art and Visual Culture_.
 
 **University of Dundee**
 
-China Scholarship Council 
+_Sponsored by China Scholarship Council_
+
+Completed _Security Programming_, _Database_ and _WWW Authoring_, and obtained scores above 85. 
+
+**Changjun High School of Changsha**
+
+Scored 637 in 2015 College Entrance Examination and ranked 1700 in Hunan province.
+
+## Academic Achievements 
+
+### Papers 
+
+**Pixel Difference Networks for Efficient Edge Detection** 
+
+_IEEE International Conference on Computer Vision (ICCV)_
+
+CCF-A Conference 
+
+Devised a light-weighted edge detection network and a novel pixel difference convolution, achieving a SOTA result. 
+
+**Beyond Vanilla Convolution: Random Difference Convolution for Face Perception**
+
+_IEEE Access_
+
+JCR Area 2 
+
 
 
 ### Markdown
