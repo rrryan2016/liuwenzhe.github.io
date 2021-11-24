@@ -14,6 +14,8 @@
 
 **Birthday**: 2nd Nov., 1997
 
+**Status**: At work since 2022
+
 **Tel**: (+86) 15273152851
 
 **Email**: liuwz2017@gmail.com 
@@ -55,17 +57,37 @@ Scored 637 in 2015 College Entrance Examination and ranked 1700 in Hunan provinc
 
 **Pixel Difference Networks for Efficient Edge Detection** 
 
-_IEEE International Conference on Computer Vision (ICCV)_
-
-CCF-A Conference 
+_IEEE International Conference on Computer Vision (ICCV)_ (CCF-A Conference) 
 
 Devised a light-weighted edge detection network and a novel pixel difference convolution, achieving a SOTA result. 
 
 **Beyond Vanilla Convolution: Random Difference Convolution for Face Perception**
 
-_IEEE Access_
+_IEEE Access_ (JCR Area 2)
 
-JCR Area 2 
+Devised a novel and flexible convolution operation based on LBP operator, achieved SOTA results in face perception tasks including face recognition, facial emotion recognition and race categorization, with negligible extra computational cost. 
+
+**Binary Neural Network for Automated Visual Defect Detection** 
+
+_Sensors_ (JCR Area 2)
+
+Devised binary network for industrial defect detection, achieving network compression and deployment on lightweight equipment. 
+
+**National Invention Patent**
+
+* 一种基于局部二值模式的像素差卷积边缘检测方法
+* 一种基于深度学习的快速高效图像边缘检测方法
+* 一种二值神经网络的训练方法及训练装置
+* 一种半监督的小样本类别增量学习方法及装置
+
+**Software Copyright**
+
+* 人工智能算法学习软件V1.0
+* 基于人工智能调节软件V1.0
+
+**Competition Awards**
+
+
 
 
 
